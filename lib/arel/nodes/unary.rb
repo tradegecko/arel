@@ -23,6 +23,10 @@ module Arel
     %w{
       Bin
       Group
+      Cube
+      RollUp
+      GroupingSet
+      GroupingElement
       Having
       Limit
       Not
